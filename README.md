@@ -38,3 +38,11 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 依赖安装记录
+
+```
+# element-plus
+# https://element-plus.org/zh-CN/guide/installation.html
+yarn add element-plus
+```
